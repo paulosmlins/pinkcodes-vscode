@@ -1,11 +1,11 @@
 {
   "name": "pinkcodes",
-  "displayName": "PinkCodes",
-  "description": "A dark theme based on Omni ⚡️",
+  "displayName": "PinkCodes Theme",
+  "description": "A dark theme based on Omni",
   "homepage": "https://github.com/pinkc0des/pinkcodes-vscode",
   "author": "PinkCodes <https://pink.codes>",
-  "publisher": "pinkcodes",
-  "version": "0.0.1",
+  "publisher": "PinkCodes",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -13,8 +13,7 @@
     "Themes"
   ],
   "keywords": [
-    "",
-    " ",
+    "ego",
     "dark",
     "Omni",
     "mask",
@@ -41,7 +40,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "PinkCodes",
+        "label": "PinkCodes Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/PinkCodes-color-theme.json"
       }
