@@ -1,0 +1,50 @@
+{
+  "name": "pinkcodes",
+  "displayName": "PinkCodes",
+  "description": "A dark theme based on Omni ⚡️",
+  "homepage": "https://github.com/pinkc0des/pinkcodes-vscode",
+  "author": "PinkCodes <https://pink.codes>",
+  "publisher": "pinkcodes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "",
+    " ",
+    "dark",
+    "Omni",
+    "mask",
+    "Pink",
+    "Theme",
+    "Codes",
+    "Italic",
+    "Omni Owl",
+    "Night Owl",
+    "PinkCodes",
+    "Dark Theme",
+    "Vivid Colors",
+    "Color Scheme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0B010B",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinkc0des/pinkcodes-vscode"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "PinkCodes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PinkCodes-color-theme.json"
+      }
+    ]
+  }
+}
