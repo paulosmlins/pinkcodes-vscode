@@ -32,12 +32,10 @@
 1. Open the **Extensions** sidebar in VS Code
 2. Search for `PinkCodes`
 3. Click **Install**
-4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
+4. Open the **Command Palette** with `Ctrl+Shift+P` or `⌘⇧P`
 5. Select **Preferences: Color Theme** and choose PinkCodes.
 
 ## Team
-
-This theme is heavily inspired by [Omni from Rocketseat](https://github.com/getomni/visual-studio-code).
 
 It is maintained by the following person(s).
 
