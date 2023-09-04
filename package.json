@@ -1,11 +1,11 @@
 {
   "name": "pinkcodes",
   "displayName": "PinkCodes Theme",
-  "description": "A dark theme based on Omni",
+  "description": "A dark theme based on my favorite color tones.",
   "homepage": "https://github.com/pinkc0des/pinkcodes-vscode",
   "author": "PinkCodes <https://pink.codes>",
   "publisher": "PinkCodes",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.81.0"
   },

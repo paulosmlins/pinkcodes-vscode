@@ -43,10 +43,6 @@ It is maintained by the following person(s).
 | --------------------------------------------------------------------------------------- |
 | <p style="text-align: center;"><a href="https://github.com/pinkc0des">PinkCodes</a></p> |
 
-## Disclaimer
-
-This theme is heavily inspired by [Omni from Rocketseat](https://github.com/getomni/visual-studio-code).
-
 ## License
 
 [MIT License](./LICENSE.md)
