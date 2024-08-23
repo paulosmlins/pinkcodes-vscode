@@ -43,6 +43,11 @@
         "label": "PinkCodes Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/PinkCodes-color-theme.json"
+      },
+      {
+        "label": "PinkCodes Theme Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PinkCodes-color-theme-pink.json"
       }
     ]
   }
