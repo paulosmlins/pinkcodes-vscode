@@ -39,9 +39,9 @@
 
 It is maintained by the following person(s).
 
-| [![PinkCodes](https://github.com/pinkc0des.png?size=100)](https://github.com/pinkc0des) |
-| --------------------------------------------------------------------------------------- |
-| <p style="text-align: center;"><a href="https://github.com/pinkc0des">PinkCodes</a></p> |
+| [![Paulo Lins](https://github.com/paulosmlins.png?size=100)](https://github.com/paulosmlins) |
+| -------------------------------------------------------------------------------------------- |
+| <p style="text-align: center;"><a href="https://github.com/paulosmlins">Paulo Lins</a></p>   |
 
 ## License
 
