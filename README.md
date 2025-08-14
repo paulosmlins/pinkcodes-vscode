@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">
-  <img src="https://i.imgur.com/ZjwVf8w.png" alt="PinkCodes Logo" width="150">
+  <img src="https://i.imgur.com/4BaKSjZ.png" alt="PinkCodes Logo" width="150">
   <br>
   PinkCodes for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
