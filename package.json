@@ -5,7 +5,7 @@
   "homepage": "https://github.com/pinkc0des/pinkcodes-vscode",
   "author": "PinkCodes <https://pink.codes>",
   "publisher": "PinkCodes",
-  "version": "0.0.17",
+  "version": "0.0.19",
   "engines": {
     "vscode": "^1.81.0"
   },

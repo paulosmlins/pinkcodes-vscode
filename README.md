@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img alt="PinkCodes screenshot for Visual Studio Code" src="https://i.imgur.com/i0D57Vm.png">
+  <img alt="PinkCodes screenshot for Visual Studio Code" src="https://i.imgur.com/G4McjBb.png">
 </p>
 
 ## Install
