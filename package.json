@@ -5,7 +5,7 @@
   "homepage": "https://github.com/pinkc0des/pinkcodes-vscode",
   "author": "PinkCodes <https://pink.codes>",
   "publisher": "PinkCodes",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -48,6 +48,11 @@
         "label": "PinkCodes Pink",
         "uiTheme": "vs-dark",
         "path": "./themes/PinkCodes-color-theme-pink.json"
+      },
+      {
+        "label": "PinkCodes Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/PinkCodes-color-theme-light.json"
       }
     ]
   }
